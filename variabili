@@ -1,6 +1,6 @@
 Nickname: authservice.srv.webapi
 path: /miasoluzioneapi-preprod/*
-ReplicaSet: 1
+ReplicaSet: 5
 Container_Registry_Base: unitn.icts
 livenessProbePath: /hc/live
 startupProbePath: /hc/ready
